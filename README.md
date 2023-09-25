@@ -20,7 +20,7 @@ https://github.com/WindAlan-sw/Coursera_Capstone/tree/master\
 
 
 
-## 2. Certificate of Applied Programming Techniques in 
+## 2. Certificate of Applied Programming Techniques in Python
 **Certification authority**: (a) Southern University of Science and Technology (Cen) (b) ForChange \
 **Obtained Date**: Mar 4, 2022\
 **Expiration time**: NA\
